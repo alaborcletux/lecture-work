@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 2;
+    
+}
+.top-container{
+    background-color: #EAF6F6;
+  
+
+}
+.cloud-1{
+    position: absolute;
+    right:300px;
+    top: 40px;
+}
+.cloud-2{
+    position: absolute;
+    top: 200px;
+    left:100px;
+}
+.top-container h1{
+    padding-top: 200px;
+    font-family: Catamaran,serif;
+}
+.middle-container{
+    margin: 10% 0;
+
+}
+.profile img{
+    width: 20%;
+}
+.profile p{
+    width: 30%;
+    margin: auto;
+}
+hr{
+    border: dotted 4px;
+    border-bottom: none;
+    width: 50px;
+    margin-bottom: 70px;
+    border-color: #EAF6F6;
+}
+h1{
+    color: #11999E;
+}
+
+.skill-row{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    margin: 10% auto;
+}
+.images-1{
+    float: right;
+    width: 30%;
+    margin-left: 10px;
+}
+.images-2{
+    float: left;
+    width: 30%;
+    margin-right: 10px;
+}
+
+.contact-me p{
+    width: 30%;
+    margin: auto;
+    margin-bottom: 40px;
+    font-size: 100%;
+}
+
+
+
+.btn {
+    background: #d19a0f;
+    background-image: -webkit-linear-gradient(top, #d19a0f, #2bb85c);
+    background-image: -moz-linear-gradient(top, #d19a0f, #2bb85c);
+    background-image: -ms-linear-gradient(top, #d19a0f, #2bb85c);
+    background-image: -o-linear-gradient(top, #d19a0f, #2bb85c);
+    background-image: linear-gradient(to bottom, #d19a0f, #2bb85c);
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 21px;
+    padding: 11px 28px 12px 31px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #1d6999;
+    background-image: -webkit-linear-gradient(top, #1d6999, #3498db);
+    background-image: -moz-linear-gradient(top, #1d6999, #3498db);
+    background-image: -ms-linear-gradient(top, #1d6999, #3498db);
+    background-image: -o-linear-gradient(top, #1d6999, #3498db);
+    background-image: linear-gradient(to bottom, #1d6999, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container{
+      background-color: #66BFBF;
+      padding: 20px;
+  }
+  .bottom-container a{
+      margin: 3px 10px;
+      color: #11999E;
+      text-decoration: none;
+  }
+  .bottom-container p{
+      color: white;
+  }
+
